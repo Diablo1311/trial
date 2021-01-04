@@ -1,2 +1,2 @@
 # trial
-remotetheme: chirpymaster
+remote_theme: chirpy master
